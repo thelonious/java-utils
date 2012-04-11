@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="beaver-ant/src/main/java"/>
+	<classpathentry kind="src" path="beaver-cc/src/main/java"/>
+	<classpathentry kind="src" path="beaver-rt/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Applications/eclipse-3.7.1/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

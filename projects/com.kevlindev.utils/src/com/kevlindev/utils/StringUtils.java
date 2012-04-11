@@ -121,6 +121,16 @@ public class StringUtils {
 	}
 
 	/**
+	 * isEmpty
+	 * 
+	 * @param string
+	 * @return
+	 */
+	public static boolean isEmpty(String string) {
+		return (string == null || string.length() == 0);
+	}
+
+	/**
 	 * Join one or more items placing the specified delimiter between each item
 	 * 
 	 * @param delimiter
