@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.kevlindev.parsing;
+package com.kevlindev.text;
 
 import com.kevlindev.utils.StringUtils;
 
