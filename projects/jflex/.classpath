@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/JFlex.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Applications/eclipse-3.7.1/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
